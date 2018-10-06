@@ -1,7 +1,7 @@
 # One D Pong
 One dimensional pong board &amp; source code (made using Autodesk EAGLE 9.2)
 
-This handheld version of One D pong was inspired by One D pong that appears ages ago in Hackaday.  The source code here supports both one-player and two-player versions.  The files were designed in EAGLE.  To get the firmware programmed:
+This handheld version of One D pong was inspired by One D pong that a friend built for a Hackaday event ages ago.  The source code here (new) supports both one-player and two-player versions.  The files were designed in EAGLE.  To get the firmware programmed:
 
 1)  Plug in your OTS Arduino Uno and setup as a programmer by loading the Arduino as ISP project and programming it.
 2)  Next up, install a library to support programming ATMEGA 328P (there are MANY)...A few I use are:
